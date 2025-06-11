@@ -1,0 +1,24 @@
+{
+  "name": "simulador-transporte-urbano-api",
+  "version": "1.0.0",
+  "description": "API mockada para o simulador de transporte urbano",
+  "main": "dist/app.js",
+  "scripts": {
+  "start": "ts-node src/index.ts",
+  "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Samuel Cordeiro - 3A1 - N° 46",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.14.2",
+    "@types/cors": "^2.8.17",
+    "typescript": "^5.4.5",
+    "ts-node": "^10.9.2"
+  }
+}
