@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "nome": "Samuel Cordeiro",
+    "documento": "123.456.789-00",
+    "linhaCadastrada": {
+      "numero": 305,
+      "capacidade": 35,
+      "trajeto": [
+        "Mangueiras",
+        "Centro"
+      ],
+      "ativa": true,
+      "passageiros": []
+    }
+  },
+  {
+    "id": "2",
+    "nome": "Ronan Porto",
+    "documento": "123.456.789-11",
+    "linhaCadastrada": {
+      "numero": 330,
+      "capacidade": 40,
+      "trajeto": [
+        "Independência",
+        "Barreiro"
+      ],
+      "ativa": true,
+      "passageiros": []
+    }
+  },
+  {
+    "id": "3",
+    "nome": "Manuela Assis",
+    "documento": "123.456.789-22",
+    "linhaCadastrada": {
+      "numero": 102,
+      "capacidade": 20,
+      "trajeto": [
+        "Barreiro",
+        "Betim"
+      ],
+      "ativa": true,
+      "passageiros": []
+    }
+  },
+  {
+    "id": "4",
+    "nome": "Sofia Josafá",
+    "documento": "123.456.789-33",
+    "linhaCadastrada": {
+      "numero": 126,
+      "capacidade": 25,
+      "trajeto": [
+        "Betim",
+        "Mario Campos"
+      ],
+      "ativa": true,
+      "passageiros": []
+    }
+  }
+]
